@@ -19,7 +19,7 @@ DekTH X با JavaScript مدرن توسعه داده شده و روی زیرسا
 
 ### 🔗 لینک‌ها و ارتباط
 
-**GitHub:** [لینک مخزن پروژه]
+**GitHub:** [https://github.com/AriyanTH/DekTH-X]
 
 **Email:** bikarjoon@gmail.com
 
@@ -45,7 +45,7 @@ Beyond its functionality as a game bot, DekTH X is an ongoing personal project f
 
 ### 🔗 Links & Contact
 
-**GitHub Repository:** [Project repository link]
+**GitHub Repository:** [https://github.com/AriyanTH/DekTH-X]
 
 **Email:** bikarjoon@gmail.com
 
